@@ -19,7 +19,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="SEU_LINK_DO_INSTAGRAM_AQUI" target="_blank">
+  <a href="https://www.instagram.com/teyx0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="50" alt="instagram logo"  />
   </a>
   
