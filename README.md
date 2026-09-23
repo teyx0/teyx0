@@ -19,9 +19,17 @@
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="50" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="61" height="50" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="61" height="50" alt="discord logo"  />
+  <a href="SEU_LINK_DO_INSTAGRAM_AQUI" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="50" alt="instagram logo"  />
+  </a>
+  
+  <a href="https://www.youtube.com/@Teyxx1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="61" height="50" alt="youtube logo"  />
+  </a>
+  
+<!-- <a href="SEU_LINK_DO_DISCORD_AQUI" target="_blank">**/
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="61" height="50" alt="discord logo"  />
+  </a> --> 
 </div>
 
 ###
